@@ -84,9 +84,8 @@ The aim was to convert raw sales transactions into **actionable insights** that 
 A complete, **business-ready Car Sales Performance Dashboard** showcasing:  
 - Strong DAX skills for sales KPIs  
 - Professional layout designed for decision-makers  
-- Ability to analyze sales across **dealers, regions, models, and categories**  
-- A polished dashboard that complements my Meta and Insurance analytics projects
-  
+- Ability to analyze sales across **dealers, regions, models, and categories**
+-  
 ---
 
 **👤 Author:** Shagun Sharma      
