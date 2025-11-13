@@ -15,7 +15,7 @@ This project focuses on understanding **sales performance**, **regional contribu
 The goal was to analyze how factors like **car model, body style, engine type, color, and dealer location** influence YTD sales and overall performance.  
 
 I built a two-page **Power BI dashboard** that presents high-level executive KPIs along with a detailed drill-down view.  
-It blends **business logic, data visualization, and sales analytics**, making it one of my cleanest and most structured dashboards so far.
+It blends **business logic, data visualization, and sales analytics**..
 
 ---
 
@@ -45,8 +45,6 @@ The aim was to convert raw sales transactions into **actionable insights** that 
 
 ### 💬 Insights & Findings  
 
-#### **For Current View: YTD Total Sales**
-
 - **Top-Level Performance:**  
   - **YTD Total Sales:** $371.2M  
   - **YTD Cars Sold:** 13.3K  
@@ -54,8 +52,8 @@ The aim was to convert raw sales transactions into **actionable insights** that 
 
 - **Sales by Car Body Style:**  
   - **SUVs (26.9%)** dominated sales  
-  - **Sedans (19.9%)** secured the second-highest contribution  
-  - Hatchback and Passenger cars added steady mid-range volume  
+  - **Hatchback (22.3%)** secured the second-highest contribution  
+  - Sedan and Passenger cars added steady mid-range volume  
 
 - **Sales by Color:**  
   - **Pale White (47%)** was the most purchased color  
@@ -91,5 +89,5 @@ A complete, **business-ready Car Sales Performance Dashboard** showcasing:
   
 ---
 
-**👤 Author:** Shagun Sharma    
+**👤 Author:** Shagun Sharma      
 **💼 Role:** Data Analyst  
